@@ -2,7 +2,7 @@ build:
   version: "10.0"
 
 card:
-  message: "Welcome to EazyBank cards related prod APIs "
+  message: "Welcome to EazyBank cards related prod to WEBHOOK APIs "
   contactDetails:
     name: "Adam Smith - Product Owner"
     email: "adamsmith@eazybank.com"

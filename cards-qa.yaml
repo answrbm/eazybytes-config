@@ -1,0 +1,11 @@
+build:
+  version: "20.0"
+
+card:
+  message: "Welcome to EazyBank cards related test APIs "
+  contactDetails:
+    name: "Sam Smith - Product Owner"
+    email: "samsmith@eazybank.com"
+  onCallSupport:
+    - (777) 555-6688
+    - (777) 111-3344

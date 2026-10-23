@@ -1,0 +1,11 @@
+build:
+  version: "300.0"
+
+loans:
+  message: "Welcome to EazyBank loans related local APIs "
+  contactDetails:
+    name: "Adam Smith - Product Owner"
+    email: "adamsmith@eazybank.com"
+  onCallSupport:
+    - (777) 000-1122
+    - (777) 111-3344
